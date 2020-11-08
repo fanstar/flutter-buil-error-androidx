@@ -4,6 +4,6 @@ I:\AndroidProjects\flutter\insta_clone\android\app\src\main\kotlin\com\example\i
 
 #remove tag in AndroidManifest.xml (lower androidx)
 
-<meta-data
+'<meta-data
         android:name="flutterEmbedding"
-        android:value="2" />
+        android:value="2" />'
